@@ -1,0 +1,144 @@
+23:16:32.865 [main] DEBUG tests.LoginTests - Launch Browser
+23:16:38.053 [main] DEBUG tests.LoginTests - Application Launched
+11:18:41.685 [main] DEBUG tests.LoginTests - Launch Browser
+11:18:48.078 [main] DEBUG tests.LoginTests - Application Launched
+13:00:15.097 [main] DEBUG tests.LoginTests - Launch Browser
+13:00:23.527 [main] DEBUG tests.LoginTests - Application Launched
+13:04:29.134 [main] DEBUG tests.LoginTests - Launch Browser
+13:04:33.105 [main] DEBUG tests.LoginTests - Application Launched
+13:05:43.129 [main] DEBUG tests.LoginTests - Launch Browser
+13:05:52.942 [main] DEBUG tests.LoginTests - Application Launched
+13:07:28.454 [main] DEBUG tests.LoginTests - Launch Browser
+13:07:38.112 [main] DEBUG tests.LoginTests - Application Launched
+13:54:22.091 [main] DEBUG tests.LoginTests - Launch Browser
+13:54:26.544 [main] DEBUG tests.LoginTests - Application Launched
+13:54:35.484 [main] DEBUG tests.LoginTests - Setup Menu
+13:56:42.677 [main] DEBUG tests.LoginTests - Launch Browser
+13:56:46.823 [main] DEBUG tests.LoginTests - Application Launched
+13:56:56.408 [main] DEBUG tests.LoginTests - Setup Menu
+13:58:18.998 [main] DEBUG tests.LoginTests - Launch Browser
+13:58:29.695 [main] DEBUG tests.LoginTests - Application Launched
+13:58:41.926 [main] DEBUG tests.LoginTests - Ledger Option clicked waiting now
+13:58:42.926 [main] DEBUG tests.LoginTests - Ledger Option clicked waiting completed
+13:58:42.965 [main] DEBUG tests.LoginTests - Setup Menu
+14:47:52.239 [main] DEBUG tests.LoginTests - Launch Browser
+14:47:57.248 [main] DEBUG tests.LoginTests - Application Launched
+14:49:18.090 [main] DEBUG tests.LoginTests - Launch Browser
+14:49:25.875 [main] DEBUG tests.LoginTests - Application Launched
+14:49:37.000 [main] DEBUG tests.LoginTests - Creating Template Master
+17:10:02.369 [main] DEBUG tests.LoginTests - Launch Browser
+17:10:05.120 [main] DEBUG tests.LoginTests - Launch Browser
+17:10:46.937 [main] DEBUG tests.LoginTests - Launch Browser
+17:10:50.151 [main] DEBUG tests.LoginTests - Application Launched
+17:10:58.380 [main] DEBUG tests.LoginTests - Launch Browser
+17:11:06.552 [main] DEBUG tests.LoginTests - Application Launched
+17:11:16.667 [main] DEBUG tests.LoginTests - Creating Template Master
+19:02:56.712 [main] DEBUG tests.LoginTests - Launch Browser
+19:03:00.452 [main] DEBUG tests.LoginTests - Application Launched
+19:03:09.378 [main] DEBUG tests.LoginTests - Launch Browser
+19:03:16.489 [main] DEBUG tests.LoginTests - Application Launched
+19:03:27.135 [main] DEBUG tests.LoginTests - Creating Template Master
+19:14:16.684 [main] DEBUG tests.LoginTests - Launch Browser
+19:14:23.074 [main] DEBUG tests.LoginTests - Application Launched
+19:14:31.691 [main] DEBUG tests.LoginTests - Launch Browser
+19:14:36.133 [main] DEBUG tests.LoginTests - Application Launched
+19:14:46.246 [main] DEBUG tests.LoginTests - Creating Template Master
+19:17:07.777 [main] DEBUG tests.LoginTests - Launch Browser
+19:17:12.578 [main] DEBUG tests.LoginTests - Application Launched
+19:17:21.241 [main] DEBUG tests.LoginTests - Launch Browser
+19:17:29.023 [main] DEBUG tests.LoginTests - Application Launched
+19:17:40.315 [main] DEBUG tests.LoginTests - Creating Template Master
+19:42:18.913 [main] DEBUG tests.LoginTests - Launch Browser
+19:42:25.763 [main] DEBUG tests.LoginTests - Application Launched
+19:42:34.572 [main] DEBUG tests.LoginTests - Launch Browser
+19:42:38.025 [main] DEBUG tests.LoginTests - Application Launched
+19:42:48.001 [main] DEBUG tests.LoginTests - Creating Template Master
+19:45:16.288 [main] DEBUG tests.LoginTests - Launch Browser
+19:45:23.113 [main] DEBUG tests.LoginTests - Application Launched
+19:45:31.966 [main] DEBUG tests.LoginTests - Launch Browser
+19:45:35.137 [main] DEBUG tests.LoginTests - Application Launched
+19:45:45.023 [main] DEBUG tests.LoginTests - Creating Template Master
+19:46:36.396 [main] DEBUG tests.LoginTests - Launch Browser
+19:46:40.131 [main] DEBUG tests.LoginTests - Application Launched
+19:46:52.298 [main] DEBUG tests.LoginTests - Launch Browser
+19:47:01.038 [main] DEBUG tests.LoginTests - Application Launched
+19:47:17.092 [main] DEBUG tests.LoginTests - Creating Template Master
+19:58:29.067 [main] DEBUG tests.LoginTests - Launch Browser
+19:58:33.313 [main] DEBUG tests.LoginTests - Application Launched
+19:58:43.905 [main] DEBUG tests.LoginTests - Launch Browser
+19:58:49.374 [main] DEBUG tests.LoginTests - Application Launched
+19:59:02.650 [main] DEBUG tests.LoginTests - Creating Template Master
+20:05:04.748 [main] DEBUG tests.LoginTests - Launch Browser
+20:05:10.177 [main] DEBUG tests.LoginTests - Application Launched
+20:05:24.118 [main] DEBUG tests.LoginTests - Creating Template Master
+21:59:55.228 [main] DEBUG tests.LoginTests - Launch Browser
+21:59:58.494 [main] DEBUG tests.LoginTests - Application Launched
+22:06:21.242 [main] DEBUG tests.LoginTests - Launch Browser
+22:06:25.043 [main] DEBUG tests.LoginTests - Application Launched
+22:15:49.746 [main] DEBUG tests.LoginTests - Launch Browser
+22:15:54.023 [main] DEBUG tests.LoginTests - Application Launched
+22:18:02.717 [main] DEBUG tests.LoginTests - Launch Browser
+22:18:06.242 [main] DEBUG tests.LoginTests - Application Launched
+22:20:30.951 [main] DEBUG tests.LoginTests - Launch Browser
+22:20:36.872 [main] DEBUG tests.LoginTests - Application Launched
+22:24:33.813 [main] DEBUG tests.LoginTests - Launch Browser
+22:24:37.552 [main] DEBUG tests.LoginTests - Application Launched
+22:24:48.410 [main] DEBUG tests.LoginTests - Creating Template Master
+22:37:00.373 [main] DEBUG tests.LoginTests - Launch Browser
+22:39:28.791 [main] DEBUG tests.LoginTests - Launch Browser
+22:39:47.480 [main] DEBUG tests.LoginTests - Application Launched
+22:41:23.378 [main] DEBUG tests.LoginTests - Launch Browser
+22:41:26.893 [main] DEBUG tests.LoginTests - Application Launched
+22:41:39.851 [main] DEBUG tests.LoginTests - Creating Template Master
+22:43:42.990 [main] DEBUG tests.LoginTests - Launch Browser
+22:43:48.686 [main] DEBUG tests.LoginTests - Application Launched
+22:44:01.674 [main] DEBUG tests.LoginTests - Creating Template Master
+23:08:27.307 [main] DEBUG tests.LoginTests - Launch Browser
+23:08:38.395 [main] DEBUG tests.LoginTests - Application Launched
+23:08:50.720 [main] DEBUG tests.LoginTests - Creating Template Master
+23:12:57.987 [main] DEBUG tests.LoginTests - Launch Browser
+23:13:02.265 [main] DEBUG tests.LoginTests - Application Launched
+23:13:12.766 [main] DEBUG tests.LoginTests - Creating Template Master
+23:14:03.204 [main] DEBUG tests.LoginTests - Launch Browser
+23:14:09.532 [main] DEBUG tests.LoginTests - Application Launched
+23:14:23.862 [main] DEBUG tests.LoginTests - Creating Template Master
+23:19:36.167 [main] DEBUG tests.LoginTests - Launch Browser
+23:19:40.740 [main] DEBUG tests.LoginTests - Application Launched
+23:19:51.166 [main] DEBUG tests.LoginTests - Creating Template Master
+23:21:09.069 [main] DEBUG tests.LoginTests - Launch Browser
+23:21:13.079 [main] DEBUG tests.LoginTests - Application Launched
+23:21:24.399 [main] DEBUG tests.LoginTests - Creating Template Master
+23:25:58.135 [main] DEBUG tests.LoginTests - Launch Browser
+23:26:02.597 [main] DEBUG tests.LoginTests - Application Launched
+23:30:48.365 [main] DEBUG tests.LoginTests - Launch Browser
+23:30:51.655 [main] DEBUG tests.LoginTests - Application Launched
+23:33:43.610 [main] DEBUG tests.LoginTests - Launch Browser
+23:33:49.096 [main] DEBUG tests.LoginTests - Application Launched
+23:36:56.327 [main] DEBUG tests.LoginTests - Launch Browser
+23:37:03.218 [main] DEBUG tests.LoginTests - Application Launched
+23:38:15.254 [main] DEBUG tests.LoginTests - Launch Browser
+23:38:21.503 [main] DEBUG tests.LoginTests - Application Launched
+23:42:28.276 [main] DEBUG tests.LoginTests - Launch Browser
+23:42:33.896 [main] DEBUG tests.LoginTests - Application Launched
+23:49:51.476 [main] DEBUG tests.LoginTests - Launch Browser
+23:49:55.824 [main] DEBUG tests.LoginTests - Application Launched
+23:57:56.519 [main] DEBUG tests.LoginTests - Launch Browser
+23:58:07.869 [main] DEBUG tests.LoginTests - Application Launched
+23:58:31.898 [main] DEBUG tests.LoginTests - Launch Browser
+23:58:38.619 [main] DEBUG tests.LoginTests - Application Launched
+00:01:03.360 [main] DEBUG tests.LoginTests - Launch Browser
+00:01:21.674 [main] DEBUG tests.LoginTests - Application Launched
+00:01:40.992 [main] DEBUG tests.LoginTests - Launch Browser
+00:01:52.678 [main] DEBUG tests.LoginTests - Application Launched
+11:37:46.158 [TestNG-tests-2] DEBUG tests.LoginTests - Launch Browser
+11:37:46.153 [TestNG-tests-1] DEBUG tests.LoginTests - Launch Browser
+11:37:51.322 [TestNG-tests-2] DEBUG tests.LoginTests - Application Launched
+11:37:52.022 [TestNG-tests-1] DEBUG tests.LoginTests - Application Launched
+11:50:12.397 [TestNG-tests-2] DEBUG tests.LoginTests - Launch Browser
+11:50:12.677 [TestNG-tests-1] DEBUG tests.LoginTests - Launch Browser
+11:50:23.494 [TestNG-tests-2] DEBUG tests.LoginTests - Application Launched
+11:50:23.714 [TestNG-tests-1] DEBUG tests.LoginTests - Application Launched
+12:01:10.121 [TestNG-tests-1] DEBUG tests.LoginTests - Launch Browser
+12:01:10.469 [TestNG-tests-2] DEBUG tests.LoginTests - Launch Browser
+12:01:15.220 [TestNG-tests-1] DEBUG tests.LoginTests - Application Launched
+12:01:15.244 [TestNG-tests-2] DEBUG tests.LoginTests - Application Launched
